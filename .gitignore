@@ -1,0 +1,16 @@
+# Ignore the target directory
+target/
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore logs
+*.log
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore any other unnecessary files and directories
